@@ -1,0 +1,1 @@
+Создайте БД detox, импортируйте sql/detox.sql, доступы правьте в public/config.php
